@@ -1,0 +1,14 @@
+<svg id="组_1" data-name="组 1" xmlns="http://www.w3.org/2000/svg" width="52" height="80" viewBox="0 0 52 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #23daff;
+        stroke: #fff;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="椭圆_1" data-name="椭圆 1" class="cls-1" d="M26.422,27.431c11.124,0,20.141,5.628,20.141,12.569S37.546,52.569,26.422,52.569,6.28,46.942,6.28,40,15.3,27.431,26.422,27.431Z"/>
+  <path id="椭圆_1-2" data-name="椭圆 1" class="cls-1" d="M26.533,34.408c5.008,0,9.067,2.5,9.067,5.593s-4.059,5.593-9.067,5.593-9.067-2.5-9.067-5.593S21.525,34.408,26.533,34.408Z"/>
+</svg>
